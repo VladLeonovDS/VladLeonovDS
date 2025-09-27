@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VladLeonovDS&style=for-the-badge&base=2074&abbreviated=true&color=blueviolet&label=Посетители" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=VladLeonovDS&style=for-the-badge&base=0&abbreviated=true&color=blueviolet&label=Посетители" alt="Views" />
 </p>
 
 ```text
