@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VladLeonovDS&style=for-the-badge&base=2074&abbreviated=true&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=VladLeonovDS&style=for-the-badge&base=2074&abbreviated=true&color=blueviolet&label=Посетители)
 
 <!--
 **VladLeonovDS/VladLeonovDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
