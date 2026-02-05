@@ -20,7 +20,7 @@
 ```
 <p align="center">
   <a href="https://t.me/redeschwall"><img src="https://img.shields.io/badge/Telegram-@redeschwall-26A5E4?style=flat&logo=telegram" /></a>
-  <a href="mailto:deathsovushka@gmail.com"><img src="https://img.shields.io/badge/Email-deathsovushka@gmail.com-D14836?style=flat&logo=gmail" /></a>
+  <a href="mailto:redeschwall@inbox.ru"><img src="https://img.shields.io/badge/Email-redeschwall@inbox.ru-D14836?style=flat&logo=gmail" /></a>
 </p>
 
 ---
